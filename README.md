@@ -1,1 +1,1 @@
-# TDDE16
+# TDDE16 - Text Mining Lab
